@@ -5,6 +5,8 @@
 Sending a mail with CSS for is currently a surprisingly large hassle.
 This library aims to make it a breeze in the Django template language.
 
+## Installation
+`pip install django-mailcss`
 
 ## Usage
 
